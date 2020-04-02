@@ -1,2 +1,2 @@
 # Java
-java笔记
+java学习笔记
